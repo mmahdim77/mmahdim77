@@ -30,7 +30,7 @@
 <a href = 'https://www.twitter.com/Maghouli_Mahdi'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> &nbsp&nbsp
 <a href = 'https://www.github.com/mmahdim77'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> &nbsp &nbsp
 <a href="https://instagram.com/maghouli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maghouli" height="30" width="40" /></a> &nbsp &nbsp
-<a href="mailto:maghouli.mahdi@gmail.com" target="blank"><img align="center" src="https://worldvectorlogo.com/download/official-gmail-icon-2020-.svg" alt="maghouli" height="30" width="40" /></a> 
+<a href="mailto:maghouli.mahdi@gmail.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="maghouli" height="30" width="40" /></a> 
 
 <br></br>
 ## 💼 Skills
