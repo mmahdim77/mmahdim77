@@ -1,0 +1,27 @@
+name: Metrics
+on:
+  # Schedule updates
+  schedule: [{cron: "1 1 1 1 *"}]
+  push: {branches: "main"}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # See action.yml for all options
+      - uses: lowlighter/metrics@latest
+        with:
+          plugin_habits: yes
+          plugin_habits_from: 200       # Use 200 events to compute habits
+          plugin_habits_days: 600        # Keep only events from last 14 days
+          plugin_habits_facts: yes      # Display facts section
+          plugin_habits_charts: no     # Display charts section
+          config_timezone: Asia/Tehran # Set timezone
+          # Your GitHub token
+          token: ${{ secrets.METRICS }}
+          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
+#           committer_token: ${{ secrets.GITHUB_TOKEN }}
+#           plugin_gists: yes
+          plugin_languages: yes
+#           plugin_isocalendar: yes
+
+# https://metrics.lecoq.io/
