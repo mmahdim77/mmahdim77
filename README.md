@@ -17,13 +17,13 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 Generally interested in Artificial Intelligence, especially Computer Vision and Deep Learning.
+- 🔭 Specializing in Machine Learning and Game Theory, with a focus on reinforcement learning and mechanism design.
 
-- 🌱 Have significant research skills and extensive industrial experience in these areas.
+- 🌱 Possess extensive experience in developing large-scale machine learning models and AI-backed software solutions, demonstrated through my research and roles at PoScout, Chaos Company, Astute Vision, DigiKala-Next etc.
 
-- 👯 I’m looking to collaborate on Projects, Tech Articles and Startups
+- 👯 Open to collaboration on AI projects, case study development, and startup initiatives. Have led teams and co-founded several startup, including PoScout, Astute Vision, and Mechgroup.
 
-- 💬 Talk to me about Computer Vision, Self-driving Cars, Bioinformatics and Business Development.  
+- 💬 Let's discuss Machine Learning, Game Theory, Algorithmic Trading, bioinformatics, and business development in AI sector.
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2>
 <a href = 'https://www.linkedin.com/in/mmahdim'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp &nbsp
