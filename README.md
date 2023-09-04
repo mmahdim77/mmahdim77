@@ -10,7 +10,7 @@
 
 
 </p>
-<div size='20px'>Thank You for taking the time to view my GitHub Profile <a href=http://mmahdim.com/pdf/M.Mahdi.Maghouli-CV.pdf?><h3>Download my CV</h3></a>
+<div size='20px'>🌟 A heartfelt appreciation for embarking on this digital journey and gracing my GitHub universe with your presence! 🚀 <a href=http://mmahdim.com/pdf/M.Mahdi.Maghouli-CV.pdf?><h3>Download my CV</h3></a>
 </div>
 
 <h2> About Me </h2>
