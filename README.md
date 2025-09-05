@@ -21,7 +21,7 @@
 
 - 🌱 Possess extensive experience in developing large-scale machine learning models and AI-backed software solutions, demonstrated through my research and roles at PoScout, Chaos Company, Astute Vision, DigiKala-Next etc.
 
-- 👯 Open to collaboration on AI projects, case study development, and startup initiatives. Have led teams and co-founded several startup, including PoScout, Astute Vision, and Mechgroup.
+- 👯 Open to collaboration on AI projects, case study development, and startup initiatives. Have led teams and co-founded startups, including PoScout, Astute Vision, and Mechgroup.
 
 - 💬 Let's discuss Machine Learning, Game Theory, Algorithmic Trading, bioinformatics, and business development in AI sector.
 
